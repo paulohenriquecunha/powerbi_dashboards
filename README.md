@@ -30,3 +30,11 @@ powerbi_dashboards/
 1. Abra a pasta do tema e visualize as imagens em `img/`.
 2. Leia o `README.md` do projeto para entender objetivos, KPIs e insights.
 3. O `.pbix` está disponível localmente (neste pacote); no GitHub, mantenha apenas imagens e docs ou uma versão do PBIX com dados amostrados.
+
+## Leia mais
+
+Artigos praticos no [blog da PC Data Insights](https://pcdatainsights.com/blog):
+
+- [Como criar um dashboard de vendas no Power BI – guia pratico](https://pcdatainsights.com/blog/como-criar-dashboard-vendas-power-bi)
+- [Quanto custa um dashboard em Power BI – guia de precos 2026](https://pcdatainsights.com/blog/quanto-custa-dashboard-power-bi)
+- [Os melhores KPIs para acompanhar no seu negocio](https://pcdatainsights.com/blog/melhores-kpis-negocio-2026)
